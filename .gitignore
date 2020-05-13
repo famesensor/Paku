@@ -4,3 +4,7 @@
 firebase-config.js
 
 keymap.js
+
+serviceAccountKey.json
+
+package-lock.json
